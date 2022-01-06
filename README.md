@@ -1,1 +1,1 @@
-Use The Attached File Labled Edenuity Script On Tamper Monkey And It Will Automaticlly Do Your Instructions And Assignments For You This Does Not Work On Quiz's Yet If You Want To Contribute To This Contact Me On Instagram @MoonFayo
+Use The Attached File Labled Edenuity Script On Tamper Monkey And It Will Automaticlly Do Your Instructions And Assignments For You This Does Not Work On Quiz's Yet If You Want To Contribute To This Contact Me On Instagram @MoonFaygoo
