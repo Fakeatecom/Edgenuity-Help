@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         EdgeHack
 // @namespace    http://tampermonkey.net/
-// @version      42.0
-// @description  try to take over the world!
-// @author       Bugs Bunny
+// @version      1.0
+// @description  @moonfaygoo on ig
+// @author       MoonFaygo
 // @include      https://r*.core.learn.edgenuity.com/Player/
 // @grant        none
 // ==/UserScript==
